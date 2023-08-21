@@ -1,0 +1,5 @@
+/*Colocando color de fondo a sección*/
+.seccion-experiencias-academicas {
+    background-color: var(--color-fondo-secundario);    
+    
+}

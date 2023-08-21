@@ -1,0 +1,5 @@
+/*Despegando main-content del header*/
+.seccion-principal {
+    width: 100%;
+    background-image: url(/assets/img/fondo/wp3284832.gif);
+}
